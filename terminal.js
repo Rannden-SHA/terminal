@@ -141,7 +141,7 @@ const commands = {
         history_commands.push('home');
     },
     whoami() {
-        this.echo('<red>Welcome, I am nquangit - A first-year student majoring in Information Assurance at FPT University.</red>\n');
+        this.echo('<red>Welcome, I am Adrian Gisbert</red>\n');
         history_commands.push('whoami');
     }
     ,
