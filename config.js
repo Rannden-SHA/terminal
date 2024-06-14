@@ -65,7 +65,7 @@ const directories = {
         '* <a target="_blank" href="https://drive.google.com/file/d/1kb0FcNuQQ70-LicVbfqb6hfIYtDuKVZi/view?usp=sharing">NDG Linux Essent Certificate</a> by CISCO (2022)',
         // Internet of Things (IoT) Certificate
         '* <a target="_blank" href="https://drive.google.com/file/d/1VcEev_GxpbQXxAbTD2fuGS4QFeCdCL2-/view?usp=sharing">Internet of Things (IoT) Certificate</a> by CISCO (2022)',
-        // Internet of Things (IoT) Certificate
+        // Cyber Security for video systems certified, Expert
         '* <a target="_blank" href="https://drive.google.com/file/d/1IUWD-I_nqJVdbV0Efy0uhG5S8_Pyz8hp/view?usp=sharing">Cyber Security for video systems certified, Expert</a> by BOSCH (2022)',
     ],
     skills: [
