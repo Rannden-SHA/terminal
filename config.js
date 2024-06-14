@@ -18,7 +18,7 @@ const directories = {
         '',
         '<white>Educations</white>',
         '* <a target="_blank" href="http://iespolitecnic.com/">IES Politecnic</a> Industrial Automation and Robotics, Palma de Mallorca <yellow>"Higher Degree"</yellow> (2016)',
-        '* <a target="_blank" href="https://elorienta.com/macabich/">IES Isidor Macabich</a> Telecommunications Installation, Ibiza <yellow>"Medium Degree"</yellow> (2014)',
+        '* <a target="_blank" href="https://elorienta.com/macabich/">IES Isidor Macabich</a> Telecommunications, Ibiza <yellow>"Medium Degree"</yellow> (2014)',
     ],
     "experiences": [
         '',
@@ -70,28 +70,27 @@ const directories = {
     ],
     skills: [
         '',
-        '<white>languages</white>',
+        '<white>Languages</white>',
         [
-            'JavaScript',
-            'TypeScript',
+            'Bash',
             'Python',
             'SQL',
-            'PHP',
-            'Bash'
+            'Powershell',
+            'Arduino IDE'
         ].map(lang => `* <yellow>${lang}</yellow>`),
         '',
-        '<white>libraries</white>',
+        '<white>Tools</white>',
         [
-            'React.js',
-            'Redux',
-            'Jest',
+            'SentinelOne - EDR',
+            'NinjaOne - RMM',
+            'Microsoft 365 Administrator - Full Suite',
+            'Unify - Controller',
         ].map(lib => `* <green>${lib}</green>`),
         '',
-        '<white>tools</white>',
+        '<white>Operating Systems</white>',
         [
-            'Docker',
-            'git',
-            'GNU/Linux'
+            'GNU/Linux',
+            'Windows',
         ].map(lib => `* <blue>${lib}</blue>`),
         ''
     ].flat()
