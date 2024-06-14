@@ -20,7 +20,7 @@ const directories = {
         '* <a target="_blank" href="http://iespolitecnic.com/">IES Politecnic</a> Industrial Automation and Robotics, Palma de Mallorca <yellow>"Higher Degree"</yellow> (2016)',
         '* <a target="_blank" href="https://elorienta.com/macabich/">IES Isidor Macabich</a> Telecommunications, Ibiza <yellow>"Medium Degree"</yellow> (2014)',
     ],
-    "experiences": [
+    "credentials": [
         '',
         '<white>Experiences</white>',
         '* <yellow>IT Support Specialist</yellow> at <a target="_blank" href="https://www.all-solutions.es/">All Solutions - IMI Group</a> (March 2024 - now)',
