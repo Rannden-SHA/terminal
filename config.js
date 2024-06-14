@@ -1,5 +1,5 @@
 const greeting = 'ADRIAN';
-const intro = 'Welcome, I am a Cybersecurity professional with extensive experience in penetration testing, \nrisk assessment, and network security. \n\nI am Passionate about safeguarding digital landscapes and staying ahead of emerging threats.\nCommitted to continuous learning and applying cutting-edge security measures to ensure data \nintegrity and confidentiality\n';
+const intro = 'Welcome, I am a Cybersecurity professional with extensive experience in penetration testing, \nrisk assessment, and network security. \n\nI am Passionate about safeguarding digital landscapes and staying ahead of emerging threats.\n\nCommitted to continuous learning and applying cutting-edge security measures to ensure data \nintegrity and confidentiality\n';
 
 const user = 'guest';
 const server = 'Adrian.Gisbert';
