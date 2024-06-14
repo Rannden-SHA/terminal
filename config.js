@@ -57,12 +57,16 @@ const directories = {
     "certificates": [
         '',
         '<white>Certificates</white>',
-        // CCNA: Introduction to Networks
-        '* <a target="_blank" href="https://www.credly.com/badges/52d41e25-391e-4555-a040-1fb377f198ad">CCNA: Introduction to Networks</a> by Cisco Networking Academy (2023)',
-        // Cyberops Associate
-        '* <a target="_blank" href="https://www.credly.com/badges/2d0df3e7-77bb-4e85-96e6-b922b3a87a98">Cyberops Associate</a> by Cisco Networking Academy (2023)',
-        // Certified AppSec Practitioner (CAP)
-        '* <a target="_blank" href="https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXZpG5WWgEDGgO89XyyrRnRuuXMQZMgiGlEJ3eWAbcrVZ3O+S39/ZwAhR0YNQUfjSzlzfRzemHT9SMzWHHG6PFBM=">Certified AppSec Practitioner (CAP)</a> by The SecOps Group (2023)',
+        // eCPPT
+        '* <a target="_blank" href="https://certs.ine.com/e484977e-ba59-43cc-95b2-d48ed065e1db">eCPPT: Certified Professional Penetration Tester</a> by INE Security (2024)',
+        // eJPT
+        '* <a target="_blank" href="https://certs.ine.com/37a3357f-9483-4706-b791-c4806e15448d#gs.5xq6ls">eJPT: Junior Penetration Tester</a> by INE Security (2024)',
+        // NDG Linux Essent Certificate
+        '* <a target="_blank" href="https://drive.google.com/file/d/1kb0FcNuQQ70-LicVbfqb6hfIYtDuKVZi/view?usp=sharing">NDG Linux Essent Certificate</a> by CISCO (2022)',
+        // Internet of Things (IoT) Certificate
+        '* <a target="_blank" href="https://drive.google.com/file/d/1VcEev_GxpbQXxAbTD2fuGS4QFeCdCL2-/view?usp=sharing">Internet of Things (IoT) Certificate</a> by CISCO (2022)',
+        // Internet of Things (IoT) Certificate
+        '* <a target="_blank" href="https://drive.google.com/file/d/1IUWD-I_nqJVdbV0Efy0uhG5S8_Pyz8hp/view?usp=sharing">Cyber Security for video systems certified, Expert</a> by BOSCH (2022)',
     ],
     skills: [
         '',
