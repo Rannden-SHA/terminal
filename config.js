@@ -76,7 +76,7 @@ const directories = {
             return `* <a target="_blank" href="${url}">${name}</a> &mdash; <white>${description}</white> <yellow>(${year})</yellow>`;
         })
     ].flat(),
-    "credentials": [
+    "experience": [
         '',
         '<white>Experiences</white>',
         '* <yellow>IT Support Specialist</yellow> at <a target="_blank" href="https://www.all-solutions.es/">All Solutions - IMI Group</a> (March 2024 - now)',
