@@ -1,5 +1,5 @@
 const greeting = 'agisbert';
-const intro = 'Welcome, I am a first-year student majoring in Information Assurance at FPT University.\nI am passionate about security and eager to learn every nook and cranny of security.\nForte: Web pentester\n';
+const intro = 'Welcome, I am a Cybersecurity professional with extensive experience in penetration testing, risk assessment, and network security.\nI am Passionate about safeguarding digital landscapes and staying ahead of emerging threats.\n Committed to continuous learning and applying cutting-edge security measures to ensure data integrity and confidentiality\n';
 
 const user = 'guest';
 const server = 'Adrian.Gisbert';
