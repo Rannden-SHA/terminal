@@ -56,26 +56,7 @@ const directories = {
         'redis:x:102:103:redis:/var/lib/redis:/bin/false',
         
     ],
-    "projects": [
-        '',
-        '<white>Projects</white>',
-        [
-            [
-                'eng4rum development',
-                'https://github.com/nquangit/eng4rum',
-                'A forum website for English learners built with Flask, PostgreSQL, and Bootstrap',
-                '2022'
-            ],
-            [
-                'FAP_MiTM',
-                'https://github.com/nquangit/FAP_MiTM',
-                'Detects HTTPS lack of use and MiTM attack threat on myFAP mobile app',
-                '2023'
-            ]
-        ].map(([name, url, description, year = '']) => {
-            return `* <a target="_blank" href="${url}">${name}</a> &mdash; <white>${description}</white> <yellow>(${year})</yellow>`;
-        })
-    ].flat(),
+    
     "experience": [
         '',
         '<white>Experiences</white>',
