@@ -17,7 +17,8 @@ const directories = {
     'educations': [
         '',
         '<white>Educations</white>',
-        '* <a target="_blank" href="https://en.wikipedia.org/wiki/FPT_University">FPT University</a> Campus Ho Chi Minh City, Vietnam <yellow>"Information Assurance"</yellow> (2022-2026)',
+        '* <a target="_blank" href="http://iespolitecnic.com/">IES Politecnic</a> Industrial Automation and Robotics, Palma de Mallorca <yellow>"Higher Degree"</yellow> (2016)',
+        '* <a target="_blank" href="http://iespolitecnic.com/">IES Politecnic</a> Industrial Automation and Robotics, Palma de Mallorca <yellow>"Higher Degree"</yellow> (2016)',
     ],
     "experiences": [
         '',
