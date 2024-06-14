@@ -2,7 +2,7 @@ const greeting = 'agisbert';
 const intro = 'Welcome, I am a first-year student majoring in Information Assurance at FPT University.\nI am passionate about security and eager to learn every nook and cranny of security.\nForte: Web pentester\n';
 
 const user = 'guest';
-const server = 'nquangit.me';
+const server = 'Adrian.Gisbert';
 function prompt() {
     return `<green>┌──(</green> <red>${user}⚔️${server}</red>  <green>)-[</green><white>${cwd}</white><green>\\]</green>    \n<green>└─</green><red>#</red> `;
 }
